@@ -3,3 +3,5 @@ script simples que usa proxy para fazer download de musicas do youtube (ou víde
 
 #### modo de uso:
 - baixe o repositorio, instale as dependencias e execute o main.py
+
+##### este projeto usa a ferramenta [Youtube-dl](https://youtube-dl.org/) para fazer download dos arquivos. a utilização de proxy randomico é para evitar um block do seu ip no youtube
